@@ -80,6 +80,7 @@
         .search-container {
             background-color: #ffffff;
             height: 1rem;
+            
             border: solid 0.05rem var(--search-border-color);
             display: flex;
             align-items: center;
